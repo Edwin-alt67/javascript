@@ -13,3 +13,6 @@ function calculadora(accion)
       return 5-2;
     }
 }
+
+console.log(calculadora('suma')); 
+console.log(calculadora('resta'));
